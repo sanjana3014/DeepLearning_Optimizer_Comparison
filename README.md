@@ -31,4 +31,26 @@ Key findings:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/DeepLearning_GroupProject.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd DeepLearning_GroupProject
+
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+4. Open and run the notebooks using Jupyter:
+   ```bash
+   jupyter notebook
+
+
+## Group Members
+Sanjana Deshpande: Model implementation and performance evaluation.
+Team Members (Aditya Nandan Reddy Sanivarapu and Dinesh Kumar Nayak): Contributed to architecture design, coding, and result analysis.
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Acknowledgments:
+This project was conducted under the guidance of Prof. Y V K Ravi Kumar.
    
