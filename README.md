@@ -47,8 +47,10 @@ Key findings:
 
 ## Group Members
 Sanjana Deshpande: Model implementation and performance evaluation.
+
 Team Members (Aditya Nandan Reddy Sanivarapu and Dinesh Kumar Nayak): Contributed to architecture design, coding, and result analysis.
-License
+
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments:
